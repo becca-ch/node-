@@ -8,3 +8,9 @@ findByIdDelete(req.body.id)
 findByIdUpdate(req.body.id, req.body)
 4. 查询数据
 findOne()
+
+### 安装
+yarn install || npm install
+
+### 启动 根目录下
+node index.js
